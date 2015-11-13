@@ -1,0 +1,12 @@
+{
+	"name": "/r/shortcut!",
+  "version": "0.1",
+
+  "omnibox": { "keyword": "r" },
+
+	"background": {
+		"scripts": ["js/event_page.js"],
+    "persistent": false
+	},
+  "manifest_version": 2
+}
